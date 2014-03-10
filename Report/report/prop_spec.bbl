@@ -1,0 +1,97 @@
+\begin{thebibliography}{1}
+
+\bibitem{information_display}
+Geoff Walker.
+\newblock The best of times.
+\newblock
+  {\texttt{http://www.informationdisplay.org/issues/2010/03/art3/art3.pdf}},
+  March 2010.
+
+\bibitem{hayes_thesis}
+Bradley~H. Hayes.
+\newblock Software driven multi-touch input display as an improved, intuitive,
+  and practical interaction device.
+\newblock {\texttt{http://www.bradhayes.info/thesis.pdf}}.
+
+\bibitem{bragdon_paper}
+Andrew Bragdon, Eugene Nelson, Yang Li, and Ken Hinckley.
+\newblock Experimental analysis of touch-screen gesture designs in mobile
+  environments.
+\newblock {\texttt{http://yangl.org/pdf/gesturestudy-chi2011.pdf}}.
+
+\bibitem{realdance}
+Emiko Charbonneau, Andrew Miller, Chadwick Wingrave, and Joseph J.~LaViola Jr.
+\newblock Understanding visual interfaces for the next generation of
+  dance-based rhythm video games.
+\newblock {\texttt{http://dl.acm.org/citation.cfm?id=1581092}}.
+
+\bibitem{tbs_game}
+Yong~Chul Kwon and Won-Hyung Lee.
+\newblock A study on multi-touch interface for game.
+\newblock {\texttt{fdff}}.
+
+\bibitem{rts_game}
+Nicole Crenshaw, Alexandra Holloway, Scott Orzech, and Wai~Son Wong.
+\newblock One-handed interface for multitouch-enabled real-time strategy games.
+\newblock {\texttt{http://ga.fdg2011.org/papers/2.pdf}}.
+
+\bibitem{smooooch}
+Know Your Meme.
+\newblock Automatically Generate step files for Stepmania.
+\newblock \texttt{http://monket.net/dancing-monkeys-v2}.
+
+\bibitem{dancing_monkeys}
+Karl O'Keeffe.
+\newblock smooooch.
+\newblock \texttt{http://knowyourmeme.com/memes/smooooch-\%E3\%83\%BB\%E2\%88\%80\%E3\%83\%BB}.
+
+\bibitem{google_play}
+Google Inc.
+\newblock Google Play
+\newblock \texttt{https://play.google.com/about/}.
+
+\bibitem{beats_portable}
+Keripo.
+\newblock Beats2 Prototypes
+\newblock \texttt{http://beatsportable.com/2012/04/beats2-prototypes/}.
+
+\bibitem{tablet_use}
+Jun Yang.
+\newblock Android tablets gained on ipad in third quarter.
+\newblock
+  {\texttt{http://www.bloomberg.com/news/2011-10-21/android-tablets-gained-on-ipad-in-third-quarter-researcher-says.html}}.
+
+\bibitem{honeycomb_tablet}
+Google Inc.
+\newblock Android 3.0 platform highlights.
+\newblock
+  {\texttt{http://developer.android.com/sdk/android-3.0-highlights.html}}.
+
+\bibitem{gameflow}
+Penelope Sweetser and Peta Wyeth.
+\newblock Gameflow: A model for evaluation player enjoyment in games.
+\newblock \texttt{http://dl.acm.org/citation.cfm?id=1077253}.
+
+\bibitem{army_mil}
+Claire Heininger.
+\newblock Microsoft, Army highlight Surface 2.0 at multitouch working group.
+\newblock \texttt{http://www.army.mil/article/51589/}.
+
+\bibitem{kinvi3d}
+KinVi 3D.
+\newblock KinVi 3D: a Kinect-Enabled Virtual Interface Gadget for Windows Control.
+\newblock \texttt{http://www.kinvi3d.net/wp/}.
+
+\bibitem{galaxy_tab}
+Samsung.
+\newblock Samsung Galaxy Tab 10.1 Specifications.
+\newblock
+  {\texttt{http://www.samsung.com/global/microsite/galaxytab/10.1/spec.html}}.
+  
+\bibitem{samsung_captivate}
+Samsung.
+\newblock Samsung Captivate Android Smartphone .
+\newblock
+  {\texttt{http://www.samsung.com/us/mobile/cell-phones/SGH-I897ZKAATT-specs}}.
+
+\end{thebibliography}

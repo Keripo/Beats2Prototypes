@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1710302844, guid: 77f72665dddd347bba153c5cb5a2df66, type: 3}
+  m_Name: _ex2D_SpriteAnimationDB
+  m_EditorClassIdentifier: 
+  curVersion: 1
+  spAnimClipGUIDs:
+  - 15c7d24f606783e48afdd105c32d1d25
+  - a3211ef2a43c0c540afca6e6a9b797ae
+  - d411cd86bed17d6408cda5fe9c98990b
+  - a3bb569cead7de342a6814ae5920f700
+  - 3685bdb45ef36754ebe228a8eb30e53b
+  - 73bc019f9a6a8024ab695804401ad70d
+  - fc5761fb3bcf2624a9ea4cb118be425d
+  guidInfos:
+  - guidAnimClip: 15c7d24f606783e48afdd105c32d1d25
+    guidTexture: 3daa28136bd2e204db4228258aa3603f
+  - guidAnimClip: a3211ef2a43c0c540afca6e6a9b797ae
+    guidTexture: bde59cb214613bd48a24ca6850614031
+  - guidAnimClip: d411cd86bed17d6408cda5fe9c98990b
+    guidTexture: 596ac649119d6194fbb1c643624147ee
+  - guidAnimClip: a3bb569cead7de342a6814ae5920f700
+    guidTexture: 4fe5e1b040e2af74bbca808aa392f929
+  - guidAnimClip: 3685bdb45ef36754ebe228a8eb30e53b
+    guidTexture: e56889a4b34cfde45882d7ab5c86dafd
+  - guidAnimClip: 3685bdb45ef36754ebe228a8eb30e53b
+    guidTexture: a7ac7909ce8364c46a96f2612d22696d
+  - guidAnimClip: 73bc019f9a6a8024ab695804401ad70d
+    guidTexture: e56889a4b34cfde45882d7ab5c86dafd
+  - guidAnimClip: 73bc019f9a6a8024ab695804401ad70d
+    guidTexture: a7ac7909ce8364c46a96f2612d22696d
+  - guidAnimClip: fc5761fb3bcf2624a9ea4cb118be425d
+    guidTexture: a7ac7909ce8364c46a96f2612d22696d
+  - guidAnimClip: fc5761fb3bcf2624a9ea4cb118be425d
+    guidTexture: e56889a4b34cfde45882d7ab5c86dafd
+  showData: 1
+  showTable: 1

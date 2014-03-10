@@ -1,0 +1,5 @@
+Over the past few years, touchscreen devices have become increasingly common in the consumer market. With the adoption of this new input paradigm comes the natural expectation of increased software support for new touch-focused interfaces, allowing for faster and more natural human-device interactions.
+
+One area that touchscreen support can be leveraged is in the design of rhythm games. Rhythm games often focus the player's beat recognition abilities, which can be measured by the tapping of objects on a touchscreen to the rhythm of the song. The success of a rhythm game depends on two main factors: 1) user responsiveness during gameplay, and 2) gameplay experience as a whole.
+
+In this study, different touchscreen user interface designs were compared for user responsiveness and gameplay experience through the development, release, and data/user feedback collection of "Beats2 Prototypes", a rhythm game designed for Android tablets.

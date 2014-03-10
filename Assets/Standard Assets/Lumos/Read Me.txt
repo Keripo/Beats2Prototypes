@@ -1,0 +1,44 @@
+Lumos Game Analytics
+====================
+
+Lumos tracks player engagement and performance of your game. With drag-and-drop
+ease, record custom events, track your player's system specs(operating system,
+RAM, etc.), remotely view errors and warnings that are thrown at runtime, and
+solicit feedback from players in-game.
+
+Current version: 0.8
+
+
+Getting Started
+---------------
+
+To obtain your secret key, visit http://www.uselumos.com/ and sign in with your
+Google account. Add a new game from the Games page and you will be directed to
+your new game's settings tab. From here copy your secret key.
+
+In Unity, choose GameObject > Create Other > Lumos... You will be prompted to
+enter your secret key. Once the Lumos game object is in the scene you are done;
+once your game is deployed stats from each play session will be recorded. We
+recommended that you place Lumos in the first scene that your game loads. It is
+unneccessary to have the Lumos game object present in every scene.
+
+For additional documentation on using Lumos, please visit
+http://www.uselumos.com/support.
+
+
+Flash Support
+-------------
+
+Due to a number of classes missing from Unity's Flash export, Lumos is
+currently unsupported on this platform. We hope this is remedied in the future,
+but for the time being the functionality provided by Lumos is simply
+unavailable in Flash games.
+
+
+Contact Us
+----------
+
+We're actively expanding Lumos' functionality, and your feedback is valuable.
+We'd love to hear your suggestions for how Lumos can be expanded and improved.
+
+support@uselumos.com

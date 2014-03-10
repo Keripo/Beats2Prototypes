@@ -1,0 +1,3059 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: 86da5fbf2fdd742fabee71203cfbdca4, type: 3}
+  m_Name: hiragino_kaku_atlas
+  m_EditorClassIdentifier: 
+  elements:
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 26
+      y: 85
+      width: 0
+      height: 0
+    coords:
+      serializedVersion: 2
+      x: .97265625
+      y: .9921875
+      width: 0
+      height: 0
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 138
+      y: 55
+      width: 7
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .1171875
+      y: .4140625
+      width: .02734375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 207
+      y: 71
+      width: 9
+      height: 8
+    coords:
+      serializedVersion: 2
+      x: .4140625
+      y: .2578125
+      width: .03515625
+      height: .03125
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 32
+      y: 55
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .71484375
+      y: .4140625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 22
+      y: 2
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .5078125
+      y: .61328125
+      width: .05078125
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 115
+      y: 2
+      width: 16
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .0703125
+      y: .54296875
+      width: .0625
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 150
+      y: 2
+      width: 15
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .4375
+      y: .54296875
+      width: .05859375
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 218
+      y: 71
+      width: 6
+      height: 8
+    coords:
+      serializedVersion: 2
+      x: .96875
+      y: .796875
+      width: .0234375
+      height: .03125
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 85
+      y: 2
+      width: 8
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .56640625
+      y: .61328125
+      width: .03125
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 95
+      y: 38
+      width: 7
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .95703125
+      y: .6171875
+      width: .02734375
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 187
+      y: 71
+      width: 9
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .2109375
+      y: .25390625
+      width: .03515625
+      height: .03515625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 240
+      y: 55
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .0625
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 198
+      y: 71
+      width: 7
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .25390625
+      y: .25390625
+      width: .02734375
+      height: .03515625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 85
+      width: 9
+      height: 6
+    coords:
+      serializedVersion: 2
+      x: .72265625
+      y: .265625
+      width: .03515625
+      height: .0234375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 247
+      y: 71
+      width: 7
+      height: 7
+    coords:
+      serializedVersion: 2
+      x: .6875
+      y: .26171875
+      width: .02734375
+      height: .02734375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 50
+      y: 2
+      width: 11
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .36328125
+      y: .61328125
+      width: .04296875
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 38
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .84765625
+      y: .6171875
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 84
+      y: 38
+      width: 9
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .51171875
+      y: .4765625
+      width: .03515625
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 48
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .8046875
+      y: .54296875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 30
+      y: 38
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .35546875
+      y: .4765625
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 55
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .90234375
+      y: .48046875
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 123
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .73046875
+      y: .6171875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 93
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .671875
+      y: .6171875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 168
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .7890625
+      y: .6171875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 16
+      y: 38
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .5546875
+      y: .4765625
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 108
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .17578125
+      y: .4765625
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 137
+      y: 71
+      width: 7
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .453125
+      y: .296875
+      width: .02734375
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 129
+      y: 55
+      width: 7
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .55078125
+      y: .4140625
+      width: .02734375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 72
+      y: 71
+      width: 11
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .66796875
+      y: .296875
+      width: .04296875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 160
+      y: 71
+      width: 12
+      height: 10
+    coords:
+      serializedVersion: 2
+      x: .10546875
+      y: .25
+      width: .046875
+      height: .0390625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 85
+      y: 71
+      width: 11
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .94921875
+      y: .359375
+      width: .04296875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 58
+      y: 38
+      width: 11
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .4609375
+      y: .4765625
+      width: .04296875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 133
+      y: 2
+      width: 15
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .30859375
+      y: .54296875
+      width: .05859375
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 141
+      y: 38
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .1875
+      y: .4140625
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 197
+      y: 21
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .19921875
+      y: .54296875
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 199
+      y: 2
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .54296875
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 215
+      y: 2
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .50390625
+      y: .54296875
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 211
+      y: 21
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .90234375
+      y: .6171875
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 44
+      y: 38
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .12109375
+      y: .4765625
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 231
+      y: 2
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .375
+      y: .54296875
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 207
+      y: 38
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .375
+      y: .4140625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 147
+      y: 55
+      width: 7
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .15234375
+      y: .4140625
+      width: .02734375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 225
+      y: 21
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .25390625
+      y: .54296875
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 175
+      y: 38
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .5859375
+      y: .4140625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 239
+      y: 21
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .4765625
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 124
+      y: 38
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .6484375
+      y: .4140625
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 191
+      y: 38
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .25390625
+      y: .4140625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 183
+      y: 2
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .234375
+      y: .4765625
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 153
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .921875
+      y: .54296875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 167
+      y: 2
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .62890625
+      y: .54296875
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 138
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .140625
+      y: .54296875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 78
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .86328125
+      y: .54296875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 21
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .56640625
+      y: .54296875
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 18
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .74609375
+      y: .54296875
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 158
+      y: 38
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .78125
+      y: .48046875
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 104
+      y: 38
+      width: 18
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .921875
+      y: .4140625
+      width: .0703125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 55
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .828125
+      y: .4140625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 75
+      y: 55
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .49609375
+      y: .4140625
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 63
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .296875
+      y: .4765625
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 105
+      y: 2
+      width: 8
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .2421875
+      y: .61328125
+      width: .03125
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 37
+      y: 2
+      width: 11
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .45703125
+      y: .61328125
+      width: .04296875
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 95
+      y: 2
+      width: 8
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .32421875
+      y: .61328125
+      width: .03125
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 174
+      y: 71
+      width: 11
+      height: 10
+    coords:
+      serializedVersion: 2
+      x: .16015625
+      y: .25
+      width: .04296875
+      height: .0390625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 13
+      y: 85
+      width: 11
+      height: 5
+    coords:
+      serializedVersion: 2
+      x: .8203125
+      y: .26953125
+      width: .04296875
+      height: .01953125
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 238
+      y: 71
+      width: 7
+      height: 7
+    coords:
+      serializedVersion: 2
+      x: .65234375
+      y: .26171875
+      width: .02734375
+      height: .02734375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 71
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .77734375
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 33
+      y: 21
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .0625
+      y: .4765625
+      width: .05078125
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 58
+      y: 71
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .3984375
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 183
+      y: 21
+      width: 12
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .69140625
+      y: .54296875
+      width: .046875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 124
+      y: 71
+      width: 11
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .296875
+      y: .296875
+      width: .04296875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 71
+      y: 38
+      width: 11
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .41015625
+      y: .4765625
+      width: .04296875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 61
+      y: 55
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .4140625
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 103
+      y: 55
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .84765625
+      y: .48046875
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 165
+      y: 55
+      width: 7
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .88671875
+      y: .4140625
+      width: .02734375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 2
+      width: 9
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .9453125
+      y: .83984375
+      width: .03515625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 89
+      y: 55
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .0625
+      y: .4140625
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 156
+      y: 55
+      width: 7
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .9609375
+      y: .48046875
+      width: .02734375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 174
+      y: 55
+      width: 16
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .2265625
+      y: .296875
+      width: .0625
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 44
+      y: 71
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 225
+      y: 55
+      width: 13
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .71875
+      y: .296875
+      width: .05078125
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 223
+      y: 38
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .4375
+      y: .4140625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 47
+      y: 55
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .7734375
+      y: .4140625
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 111
+      y: 71
+      width: 11
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .1171875
+      y: .296875
+      width: .04296875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 146
+      y: 71
+      width: 12
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: .89453125
+      y: .30078125
+      width: .046875
+      height: .04296875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 117
+      y: 55
+      width: 10
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .734375
+      y: .48046875
+      width: .0390625
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 30
+      y: 71
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .48828125
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 210
+      y: 55
+      width: 13
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .16796875
+      y: .296875
+      width: .05078125
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 192
+      y: 55
+      width: 16
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .59765625
+      y: .296875
+      width: .0625
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 16
+      y: 71
+      width: 12
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .54296875
+      y: .296875
+      width: .046875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 238
+      y: 38
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .31640625
+      y: .4140625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 98
+      y: 71
+      width: 11
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .34765625
+      y: .296875
+      width: .04296875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 74
+      y: 2
+      width: 9
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .4140625
+      y: .61328125
+      width: .03515625
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 13
+      y: 2
+      width: 7
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .0703125
+      y: .76171875
+      width: .02734375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 63
+      y: 2
+      width: 9
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .28125
+      y: .61328125
+      width: .03515625
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_12
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 226
+      y: 71
+      width: 10
+      height: 7
+    coords:
+      serializedVersion: 2
+      x: .60546875
+      y: .26171875
+      width: .0390625
+      height: .02734375
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 239
+      y: 102
+      width: 0
+      height: 0
+    coords:
+      serializedVersion: 2
+      x: .98046875
+      y: .9921875
+      width: 0
+      height: 0
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 83
+      width: 8
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .9296875
+      y: .76171875
+      width: .03125
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 155
+      y: 102
+      width: 10
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .2890625
+      y: .25390625
+      width: .0390625
+      height: .03515625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 87
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .625
+      y: .76171875
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 126
+      y: 2
+      width: 14
+      height: 19
+    coords:
+      serializedVersion: 2
+      x: .4921875
+      y: .91796875
+      width: .0546875
+      height: .07421875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 142
+      y: 2
+      width: 19
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .40625
+      y: .8359375
+      width: .07421875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 163
+      y: 2
+      width: 18
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .6796875
+      y: .921875
+      width: .0703125
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 178
+      y: 102
+      width: 7
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .3359375
+      y: .25390625
+      width: .02734375
+      height: .03515625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 106
+      y: 2
+      width: 9
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .35546875
+      y: .9140625
+      width: .03515625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 94
+      y: 2
+      width: 10
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .3984375
+      y: .9140625
+      width: .0390625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 134
+      y: 102
+      width: 10
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: .94921875
+      y: .30078125
+      width: .0390625
+      height: .04296875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 203
+      y: 83
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .3515625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 146
+      y: 102
+      width: 7
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: .0703125
+      y: .24609375
+      width: .02734375
+      height: .04296875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 202
+      y: 102
+      width: 11
+      height: 8
+    coords:
+      serializedVersion: 2
+      x: .49609375
+      y: .2578125
+      width: .04296875
+      height: .03125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 215
+      y: 102
+      width: 8
+      height: 8
+    coords:
+      serializedVersion: 2
+      x: .45703125
+      y: .2578125
+      width: .03125
+      height: .03125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 2
+      width: 13
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .9140625
+      width: .05078125
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 56
+      y: 24
+      width: 16
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .265625
+      y: .8359375
+      width: .0625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 83
+      width: 10
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .3671875
+      y: .68359375
+      width: .0390625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 202
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .484375
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 74
+      y: 24
+      width: 15
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .07421875
+      y: .8359375
+      width: .05859375
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 210
+      y: 44
+      width: 16
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .296875
+      y: .68359375
+      width: .0625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 218
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .61328125
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 158
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .6171875
+      y: .921875
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 170
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .234375
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 221
+      y: 2
+      width: 16
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .55859375
+      y: .8359375
+      width: .0625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 174
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .69921875
+      y: .8359375
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 92
+      y: 102
+      width: 8
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .0703125
+      y: .3515625
+      width: .03125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 52
+      y: 83
+      width: 7
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .58984375
+      y: .76171875
+      width: .02734375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 33
+      y: 102
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .68359375
+      y: .3515625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 118
+      y: 102
+      width: 14
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .24609375
+      width: .0546875
+      height: .04296875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 48
+      y: 102
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .55859375
+      y: .3515625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 238
+      y: 24
+      width: 13
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .88671875
+      y: .8359375
+      width: .05078125
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 137
+      y: 44
+      width: 17
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .16796875
+      y: .609375
+      width: .06640625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 99
+      y: 44
+      width: 17
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .69140625
+      y: .76171875
+      width: .06640625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 19
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .3125
+      y: .76171875
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 24
+      width: 16
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .48828125
+      y: .8359375
+      width: .0625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 36
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .89453125
+      y: .68359375
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 206
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .5546875
+      y: .921875
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 186
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 38
+      y: 24
+      width: 16
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .3359375
+      y: .8359375
+      width: .0625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 174
+      y: 44
+      width: 16
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .2421875
+      y: .76171875
+      width: .0625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 14
+      y: 83
+      width: 8
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .0703125
+      y: .68359375
+      width: .03125
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 222
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .82421875
+      y: .8359375
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 53
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .5234375
+      y: .76171875
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 190
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .7578125
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 40
+      y: 44
+      width: 18
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .7421875
+      y: .68359375
+      width: .0703125
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 156
+      y: 44
+      width: 16
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .609375
+      width: .0625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 202
+      y: 2
+      width: 17
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .8984375
+      y: .921875
+      width: .06640625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 70
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .546875
+      y: .68359375
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 183
+      y: 2
+      width: 17
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .82421875
+      y: .921875
+      width: .06640625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 228
+      y: 44
+      width: 16
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .10546875
+      y: .76171875
+      width: .0625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 142
+      y: 24
+      width: 14
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .76171875
+      y: .8359375
+      width: .0546875
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 192
+      y: 44
+      width: 16
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .4140625
+      y: .68359375
+      width: .0625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 20
+      y: 24
+      width: 16
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .62890625
+      y: .8359375
+      width: .0625
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 80
+      y: 44
+      width: 17
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .8203125
+      y: .68359375
+      width: .06640625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 44
+      width: 21
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .078125
+      y: .609375
+      width: .08203125
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 60
+      y: 44
+      width: 18
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .37890625
+      y: .76171875
+      width: .0703125
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 118
+      y: 44
+      width: 17
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .8203125
+      y: .76171875
+      width: .06640625
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 108
+      y: 24
+      width: 15
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .7578125
+      y: .921875
+      width: .05859375
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 82
+      y: 2
+      width: 10
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .06640625
+      y: .9140625
+      width: .0390625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 2
+      width: 13
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .26171875
+      y: .9140625
+      width: .05078125
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 70
+      y: 2
+      width: 10
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .4453125
+      y: .9140625
+      width: .0390625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 102
+      y: 102
+      width: 14
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .83203125
+      y: .296875
+      width: .0546875
+      height: .046875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 225
+      y: 102
+      width: 12
+      height: 6
+    coords:
+      serializedVersion: 2
+      x: .765625
+      y: .265625
+      width: .046875
+      height: .0234375
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 167
+      y: 102
+      width: 9
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .37109375
+      y: .25390625
+      width: .03515625
+      height: .03515625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 78
+      y: 83
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .609375
+      y: .4765625
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 91
+      y: 24
+      width: 15
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .0078125
+      y: .8359375
+      width: .05859375
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 102
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .49609375
+      y: .3515625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 125
+      y: 24
+      width: 15
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .140625
+      y: .8359375
+      width: .05859375
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 63
+      y: 102
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .4375
+      y: .3515625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 44
+      width: 13
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .20703125
+      y: .8359375
+      width: .05078125
+      height: .0703125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 104
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .45703125
+      y: .76171875
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 154
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .109375
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 43
+      y: 83
+      width: 7
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .89453125
+      y: .76171875
+      width: .02734375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 32
+      y: 2
+      width: 12
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .16015625
+      y: .9140625
+      width: .046875
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 121
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .17578125
+      y: .76171875
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 34
+      y: 83
+      width: 7
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .9609375
+      y: .68359375
+      width: .02734375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 110
+      y: 83
+      width: 20
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .80078125
+      y: .3515625
+      width: .078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 235
+      y: 83
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .88671875
+      y: .3515625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 186
+      y: 83
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .109375
+      y: .3515625
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 138
+      y: 64
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .171875
+      y: .68359375
+      width: .0546875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 64
+      width: 15
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .67578125
+      y: .68359375
+      width: .05859375
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 78
+      y: 102
+      width: 12
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .3828125
+      y: .3515625
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 94
+      y: 83
+      width: 14
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .671875
+      y: .4765625
+      width: .0546875
+      height: .05859375
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 234
+      y: 64
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .765625
+      y: .76171875
+      width: .046875
+      height: .06640625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 219
+      y: 83
+      width: 14
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .17578125
+      y: .3515625
+      width: .0546875
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 152
+      y: 83
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .6171875
+      y: .3515625
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 132
+      y: 83
+      width: 18
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .3046875
+      y: .3515625
+      width: .0703125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 169
+      y: 83
+      width: 15
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .23828125
+      y: .3515625
+      width: .05859375
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 61
+      y: 83
+      width: 15
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: .60546875
+      y: .61328125
+      width: .05859375
+      height: .0625
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 18
+      y: 102
+      width: 13
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .7421875
+      y: .3515625
+      width: .05078125
+      height: .0546875
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 58
+      y: 2
+      width: 10
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .11328125
+      y: .9140625
+      width: .0390625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 117
+      y: 2
+      width: 7
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .3203125
+      y: .9140625
+      width: .02734375
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 46
+      y: 2
+      width: 10
+      height: 20
+    coords:
+      serializedVersion: 2
+      x: .21484375
+      y: .9140625
+      width: .0390625
+      height: .078125
+    rotated: 0
+  - name: hiragino_kaku_15
+    originalWidth: 256
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 187
+      y: 102
+      width: 13
+      height: 8
+    coords:
+      serializedVersion: 2
+      x: .546875
+      y: .2578125
+      width: .05078125
+      height: .03125
+    rotated: 0
+  material: {fileID: 2100000, guid: 0c4ed2138ed4944f6bfd054996c667d0, type: 2}
+  texture: {fileID: 2800000, guid: dfdafda619ac640e8bb149378496597f, type: 3}
+--- !u!1002 &11400001
+EditorExtensionImpl:
+  serializedVersion: 6

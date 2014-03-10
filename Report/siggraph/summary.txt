@@ -1,0 +1,1 @@
+In this study, different touchscreen user interface designs were compared for 1) user responsiveness, and 2) gameplay experience through the development, release, and data/user-feedback collection of “Beats2 Prototypes”, a rhythm game designed for Android tablets.

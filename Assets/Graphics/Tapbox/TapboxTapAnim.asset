@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: 86da5fbf2fdd742fabee71203cfbdca4, type: 3}
+  m_Name: TapboxTapAnim
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: .25
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: e56889a4b34cfde45882d7ab5c86dafd
+    length: .0833333358
+    atlas: {fileID: 11400000, guid: 849d378171685f24ea70fad71f242b42, type: 2}
+    index: 1
+  - textureGUID: a7ac7909ce8364c46a96f2612d22696d
+    length: .0833333358
+    atlas: {fileID: 11400000, guid: 849d378171685f24ea70fad71f242b42, type: 2}
+    index: 0
+  - textureGUID: e56889a4b34cfde45882d7ab5c86dafd
+    length: .0833333358
+    atlas: {fileID: 11400000, guid: 849d378171685f24ea70fad71f242b42, type: 2}
+    index: 1
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

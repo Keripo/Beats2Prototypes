@@ -1,0 +1,4 @@
+Designing Rhythm Game Interfaces for Touchscreen Devices
+Member: Philip Peng, Advisor: Dr. Stephen H. Lane
+
+This project focuses on comparing different touchscreen interface designs for rhythm games. This is accomplished through the development of “Beats2 Prototypes”, a rhythm game for Android tablets, and analysis of collected gameplay data

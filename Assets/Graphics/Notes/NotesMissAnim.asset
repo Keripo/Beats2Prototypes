@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: 86da5fbf2fdd742fabee71203cfbdca4, type: 3}
+  m_Name: NotesMissAnim
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: .0833333358
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 4fe5e1b040e2af74bbca808aa392f929
+    length: .0833333358
+    atlas: {fileID: 11400000, guid: d371d9e6ff1828e4aa6fb3ecc37bf772, type: 2}
+    index: 2
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 5.96500206
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

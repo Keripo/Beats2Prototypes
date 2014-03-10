@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -916013278, guid: 77f72665dddd347bba153c5cb5a2df66, type: 3}
+  m_Name: _ex2D_AtlasDB
+  m_EditorClassIdentifier: 
+  curVersion: 2
+  atlasInfoGUIDs:
+  - fe1dc0aada99048469e61deeaba3e2b0
+  - 9c3167b379929b44ab2d7c5d621fbdf6
+  - c85ab8f70d235a44ea2f564ef5f349c4
+  - fb2ada901d1852f4098e08e769ab08ee
+  elementInfos:
+  - indexInAtlas: 0
+    indexInAtlasInfo: 0
+    guidTexture: 3daa28136bd2e204db4228258aa3603f
+    guidAtlas: 55898c2d574058745bf9567c7c957236
+    guidAtlasInfo: 9c3167b379929b44ab2d7c5d621fbdf6
+  - indexInAtlas: 1
+    indexInAtlasInfo: 1
+    guidTexture: bde59cb214613bd48a24ca6850614031
+    guidAtlas: 55898c2d574058745bf9567c7c957236
+    guidAtlasInfo: 9c3167b379929b44ab2d7c5d621fbdf6
+  - indexInAtlas: 0
+    indexInAtlasInfo: 0
+    guidTexture: 73ee471d9bfe62a4f8b31c5828aafb3e
+    guidAtlas: d371d9e6ff1828e4aa6fb3ecc37bf772
+    guidAtlasInfo: c85ab8f70d235a44ea2f564ef5f349c4
+  - indexInAtlas: 1
+    indexInAtlasInfo: 1
+    guidTexture: 596ac649119d6194fbb1c643624147ee
+    guidAtlas: d371d9e6ff1828e4aa6fb3ecc37bf772
+    guidAtlasInfo: c85ab8f70d235a44ea2f564ef5f349c4
+  - indexInAtlas: 2
+    indexInAtlasInfo: 2
+    guidTexture: 4fe5e1b040e2af74bbca808aa392f929
+    guidAtlas: d371d9e6ff1828e4aa6fb3ecc37bf772
+    guidAtlasInfo: c85ab8f70d235a44ea2f564ef5f349c4
+  - indexInAtlas: 0
+    indexInAtlasInfo: 0
+    guidTexture: a7ac7909ce8364c46a96f2612d22696d
+    guidAtlas: 849d378171685f24ea70fad71f242b42
+    guidAtlasInfo: fb2ada901d1852f4098e08e769ab08ee
+  - indexInAtlas: 1
+    indexInAtlasInfo: 1
+    guidTexture: e56889a4b34cfde45882d7ab5c86dafd
+    guidAtlas: 849d378171685f24ea70fad71f242b42
+    guidAtlasInfo: fb2ada901d1852f4098e08e769ab08ee
+  showData: 1
+  showTable: 1

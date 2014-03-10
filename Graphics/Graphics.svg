@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="Graphics.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="125.632"
+     inkscape:cy="429.45459"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="848"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6e96f8;fill-opacity:1;fill-rule:nonzero;stroke:#023792;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="72.73098"
+       height="72.73098"
+       x="249.50768"
+       y="222.52187"
+       ry="2.0203052"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\note_active.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#ababab;fill-opacity:1;stroke:#000000;stroke-width:5.78000021;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-1"
+       width="84.07309"
+       height="84.07309"
+       x="339.80112"
+       y="216.34573"
+       ry="2.3353636"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\hitbox.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#ffeb00;fill-opacity:1;stroke:#f7bc00;stroke-width:5.78000021;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-1-9"
+       width="84.07309"
+       height="84.07309"
+       x="439.30115"
+       y="215.33557"
+       ry="2.3353636"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\hitbox_hit.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#f8f06e;fill-opacity:1;fill-rule:nonzero;stroke:#ffeb00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-17"
+       width="72.73098"
+       height="72.73098"
+       x="163.13963"
+       y="222.52187"
+       ry="2.0203052"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Note_Hit.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#ff685c;fill-opacity:1;fill-rule:nonzero;stroke:#ff1400;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-17-9"
+       width="72.73098"
+       height="72.73098"
+       x="72.225906"
+       y="223.02695"
+       ry="2.0203052"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Note_Miss.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#ababab;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-1-1"
+       width="382.3848"
+       height="42.847294"
+       x="93.16552"
+       y="347.00214"
+       ry="0"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\hitbox.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999"
+       rx="0" />
+    <rect
+       style="fill:none;stroke:#ababab;stroke-width:5.78000021;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-1-0"
+       width="84.07309"
+       height="84.07309"
+       x="-497.75082"
+       y="481.75421"
+       ry="2.3353636"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Tapbox_Shrinking.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#ffeb00;fill-opacity:1;fill-rule:nonzero;stroke:#f7bc00;stroke-width:4.27634621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3900"
+       sodipodi:sides="5"
+       sodipodi:cx="719.28571"
+       sodipodi:cy="238.07648"
+       sodipodi:r1="55"
+       sodipodi:r2="22.739929"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 719.28571,183.07648 13.36619,36.60301 38.94191,1.40105 -30.68115,24.02296 10.70123,37.46891 -32.32818,-21.756 -32.32819,21.756 10.70123,-37.46891 -30.68115,-24.02296 38.94191,-1.40105 z"
+       inkscape:transform-center-y="-6.140801"
+       transform="matrix(1.1692225,0,0,1.1692225,-518.41703,240.87093)"
+       inkscape:transform-center-x="1.4612724e-005"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Feedback_Star_Filled.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:#ababab;stroke-width:4.27634621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3900-0"
+       sodipodi:sides="5"
+       sodipodi:cx="719.28571"
+       sodipodi:cy="238.07648"
+       sodipodi:r1="55"
+       sodipodi:r2="22.739929"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.9424778"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 719.28571,183.07648 13.36619,36.60301 38.94191,1.40105 -30.68115,24.02296 10.70123,37.46891 -32.32818,-21.756 -32.32819,21.756 10.70123,-37.46891 -30.68115,-24.02296 38.94191,-1.40105 z"
+       inkscape:transform-center-y="-6.140801"
+       transform="matrix(1.1692225,0,0,1.1692225,-652.61159,240.71715)"
+       inkscape:transform-center-x="1.4612724e-005"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Feedback_Star_Empty.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       style="fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-174-6"
+       width="222.42552"
+       height="61.077713"
+       x="163.54874"
+       y="616.75214"
+       ry="1.6966034"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Feedback_Submit.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+    <rect
+       inkscape:export-ydpi="91.279999"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Feedback_Submit.png"
+       ry="1.6966034"
+       y="616.75214"
+       x="163.54874"
+       height="61.077713"
+       width="222.42552"
+       id="rect3760"
+       style="fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:#404040;stroke-width:3.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 179.55154,718.91032 -14.71284,13.81473 40.27303,37.22335 74.29624,-64.58964 -13.38252,-15.38137 -59.95433,53.53373 z"
+       id="path2993"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Development\Unity\Sandbox\Graphics\Checkmark.png"
+       inkscape:export-xdpi="91.279999"
+       inkscape:export-ydpi="91.279999" />
+  </g>
+</svg>

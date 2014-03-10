@@ -1,0 +1,17 @@
+Designing Rhythm Game Interfaces for Touchscreen Devices
+
+Authors
+Philip H. Peng
+Stephen H. Lane, Ph.D.
+
+Department of Computer and Information Science
+University of Pennsylvania
+
+Summary
+In this study a rhythm game,“Beats2 Prototypes,” was designed for Android tablets and used to collect gameplay data for the purpose of comparing different user interfaces for touchscreen devices.
+
+Rhythm games often focus on the player's beat recognition abilities, which can be measured by the tapping of objects on a touchscreen to the rhythm of the song. The success of a rhythm game depends on two main factors: user responsiveness during gameplay, and the gameplay experience as a whole. Both factors are strongly influenced by the game's user interface design, defined as the placement of the game's note and tapbox elements along with their patterns of movement.
+
+This study consisted of three stages: 1) the Design stage, where eight different user interface designs were proposed based on analysis of various existing commercial rhythm games; 2) the Prototype stage, where these eight interface designs were implemented as game modes in the rhythm game, “Beats2 Prototypes”, which was developed using the cross-platform Unity3 game engine, and 3) the Evaluation stage, where the game was published as an Android app on Google Play, with a built-in tracker for collecting data for this study.
+
+Based on the results of the data collection, comparisons of the proposed touchscreen user interface designs were made with respect to user responsiveness - measured by quantitative gameplay statistics, and gameplay experience - measured by qualitative feedback ratings. These comparisons were used to determine which interface design would be the best candidate for future rhythm game development. The results of this study also can be extended in general to the design of user interfaces for future time-critical, touch-based applications.
